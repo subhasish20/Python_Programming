@@ -1,12 +1,15 @@
+class ClassName:
+    # Code for the class goes here
+    pass
 
-# here MyClass is the name of the class
-class MyClass:
-    def __init__(self):
-        self.name = "Subhasish Jena"
-        self.age = 20
+# Creating an object
+object_name = ClassName()
 
-# delcaring an object of the clas having name obj
-obj = MyClass()
 
-print(obj.age)
-print(obj.name)
+# example
+
+class Car:
+    brand = "Toyota"
+
+my_car = Car()
+print(my_car.brand)
