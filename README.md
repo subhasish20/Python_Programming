@@ -2,7 +2,7 @@
 
 🐍 **Python Programming Fundamentals** 🔑
 This repository is dedicated to the **core building blocks** of Python programming. Whether you're just starting out or need to brush up on the basics, this repo covers essential concepts like loops 🔄, conditionals ⚖️, functions 🛠️, and more!
-
+  
 🔧 **Key Concepts**:
 
 * **Variables & Data Types** 💡: Learn how to work with different types of data (int, float, string, etc.) and store them in variables.
