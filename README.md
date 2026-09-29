@@ -13,7 +13,7 @@ This repository is dedicated to the **core building blocks** of Python programmi
 * **String Manipulation** ✂️: Learn how to modify and work with strings for text processing.
 * **Error Handling** 🚨: Understand how to handle exceptions using **try**, **except** blocks for robust code.
 * **Loops with Lists** 🔄📋: Loop through lists, tuples, and dictionaries for efficient data handling.
-
+  
 📚 **Learning Path**:
 
 * Start with the basics and gradually move to more advanced topics.
